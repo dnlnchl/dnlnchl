@@ -8,7 +8,7 @@
 ---
 
 ### Welcome to my portfolio!
-Here, I share projects that I'm currently working on :)
+Here, I share [projects](https://github.com/dnlnchl/Projects-Overview/blob/main/README.md) that I'm working on :)
 
 ### A bit about me ...
 
