@@ -12,7 +12,7 @@ Here, I share [projects](https://github.com/dnlnchl/Projects-Overview/blob/main/
 
 ### A bit about me ...
 
-I am a data scientist with a statistical science training, building the expertise to integrate climate analytics into Jamaica’s financial sector and position it as a regional leader in sustainable finance.
+I am a data scientist with a statistical science background, building the expertise to integrate climate analytics into Jamaica’s financial sector and position it as a regional leader in sustainable finance.
 
 My background spans statistical modeling, investment research, programming, and data visualization. Whether I'm building Python and R data pipelines, simulating climate-economy frameworks, or turning numbers into interactive dashboards, I love bridging rigorous theory with practical implementation.
 
