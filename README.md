@@ -8,7 +8,7 @@
 
 ### A bit about me...
 
-I'm a graduate of the University of Exeter with a Master's in Applied Data Science & Modelling and an undergraduate degree in Statistics. My sweet spot lies at the intersection of rigorous statistical theory and practical implementation—whether that means building robust Python and R data pipelines, simulating climate-economy frameworks, or turning raw numbers into interactive, insightful dashboards.
+I'm a graduate of the University of Exeter with a Master's in Applied Data Science & Modelling and an undergraduate degree in Statistical Science from the Univesity of West Indies, Mona. My sweet spot lies at the intersection of rigorous statistical theory and practical implementation; whether that means building robust Python and R data pipelines, simulating climate-economy frameworks, or turning raw numbers into interactive, insightful dashboards.
 
 When I'm not writing code or wrestling with econometric models, you'll likely find me at the beach with a good book :) 
 
